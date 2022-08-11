@@ -1,0 +1,46 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Anisul Islam]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar | Dennis Ritchie]
+4.Open pdf book. [file > pdf > C Languase> ]
+5.Open YouTube. [Anisul Islam]
+===================
+Learning Speed : Start Date: 10/04/2021
+================== 
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. First C Program [01]
+ 2. Comments and Escape sequence [02]
+
+
+//Day2 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+

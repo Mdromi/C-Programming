@@ -1,0 +1,94 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Tamim Shahriar > 52 Problem Solving > ]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar]
+===================
+Learning Speed : Start Date: 02/08/2021
+================== 
+//Day1 
+CP:01 Problem [01 - 12]
+Date: 02/08/2021
+ 1. Problem-1 [s-01]
+ 2. Problem-2 [s-02]
+ 3. Problem-3 [s-03]
+ 4. Problem-4 [s-04]
+ 5. Problem-5 [s-05]
+ 6. Problem-6 [s-06]
+ 7. Problem-7 [s-07]
+ 8. Problem-8 [s-08] [5 Hours]
+ 9. Problem-9 [s-09]
+ 10.Problem-10 [s-10]
+ 11.Problem-11 [s-11]
+ 12.Problem-12 [s-12] [2 Hours]
+
+//Day2 
+CP:02 Problem [13 - 20]
+Date: 12/08/2021
+ 1. Problem-13 [s-01] [unsolving]
+ 2. Problem-14 [s-02]
+ 3. Problem-15 [s-03]
+ 4. Problem-16 [s-04] [2 Hours]
+ 5. Problem-17 [s-05]
+ 6. Problem-18 [s-06] 
+ 7. Problem-19 [s-07]
+ 8. Problem-20 [s-08] [2 Hours]
+
+//Day3 
+CP:03 Problem [21 - 31]
+Date: 14/08/2021 
+ 1. Problem-21 [s-01]
+ 2. Problem-22 [s-02]
+ 3. Problem-23 [s-03]
+ 4. Problem-24 [s-04]
+ 5. Problem-25 [s-05] [1.5 Hours]
+ 6. Problem-26 [s-06]
+ 7. Problem-27 [s-07]
+ 8. Problem-28 [s-08]
+ 9. Problem-29 [s-09] [1.5 Hours]
+ 10.Problem-30 [s-10]
+ 11.Problem-31 [s-11]
+ 
+//Day4
+CP:04 Problem [32 - 42]
+Date: 25/08/2021 
+ 1. Problem-32 [s-01]
+ 2. Problem-33 [s-02]
+ 3. Problem-34 [s-03]
+ 4. Problem-35 [s-04]
+ 5. Problem-36 [s-05] 
+ 6. Problem-37 [s-06] [3.5 Hours]
+ 7. Problem-38 [s-07]
+ 8. Problem-39 [s-08]
+ 9. Problem-39.2 [s-09] 
+ 10.Problem-40 [s-10]
+ 11.Problem-41 [s-11] 
+ 12.Problem-42 [s-12] [2 Hours]
+ 
+//Day5
+CP:05 Problem [43 - 52]
+Date: 25/08/2021 
+ 1. Problem-43 [s-01]
+ 2. Problem-44 [s-02] [1 Hours]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

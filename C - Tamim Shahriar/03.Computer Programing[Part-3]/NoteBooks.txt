@@ -1,0 +1,105 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Tamim Shahriar > Computer Programing[Part-3] > ]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar]
+===================
+Learning Speed : Start Date: 24/10/2021
+================== 
+//Day1 
+CP:02 Time & Space Complexity
+Date: 26/10/2021
+ 1. Program2.1[s-01]
+ 2. Program2.2[s-02]
+ 3. Program2.3[s-03]
+ 4. Program2.4[s-04]
+ 5. Program2.5[s-05]
+ 6. Program2.6[s-06]
+ 7. Program2.7[s-07]
+ 8. Program2.8[s-08]
+ 9. Program2.9[s-09]
+
+//Day2 
+CP:03 Searching Algorithm
+Date: 31/10/2021
+ 1. Program3.1[s-01]
+ 2. Program3.2[s-02] 
+
+//Day3
+CP:04 Sorting Algorithm
+Date: 21/11/2021
+ 1. Program4.1[s-01]
+ 2. Program4.2[s-02] 
+ 3. Program4.3[s-03] 
+ 
+//Day4
+CP:05 Stack or Queue
+Date: 02/12/2021
+ 1. Program5.1[s-01]
+ 2. Program5.2[s-02] 
+ 3. Program5.2.1[s-03] 
+ 4. Program5.3[s-04] 
+ 
+//Day5
+CP:06 Linked List
+Date: 08/12/2021
+ 1. Program6.1[s-01]
+ 2. Program6.2[s-02] 
+ 3. Program6.3[s-03] 
+ 4. Program6.4[s-04] 
+ 5. Program6.4.1[s-05]
+ 6. Program6.5[s-06]
+ 7. Program6.6[s-07]
+ 
+//Day6
+CP:07 Tree
+Date: 20/12/2021
+ 1. Program7.1[s-01]
+
+//Day7
+CP:08 Binary Search Tree
+Date: 05/02/2022
+ 1. Program8.1[s-01] 
+ 
+//Day8
+CP:09 Heap, Heap Sort, Priority Queue
+Date: 22/02/2022
+ 1. Program9.1[s-01]
+ 2. Program9.2[s-02]
+ 
+//Day9
+CP:10 Hash Table  Concept
+Date: 09/03/2022
+ 
+//Day10
+CP:11 More Sorting Algorithm
+Date: 10/03/2022
+ 1. Program11.1[s-01]
+ 2. Program11.2[s-02]
+ 3. Program11.3[s-03]
+
+
+
+============================ 
+DATE: 11/03/2022
+*** END THE BOOKS ***
+============================ 
+
+
+---------------------------
+//Day0 
+CP:00 Starter
+Date: 02/19/2021
+ 1. Program1.1[s-01]
+ 2. Program1.2[s-02] 
+ 3. Program1.3[s-03]
+ 
+============================ 
+#include<stdio.h>
+int main()
+{
+
+    return 0;
+}
+============================ 

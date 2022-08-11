@@ -1,0 +1,46 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C - Practis  > Problem Solveing > Codeforwin org > ]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Website.[ codeforwin.org]
+4.Open pdf book. [file > pdf > C Languase> ]
+5.Open YouTube. []
+===================
+Learning Speed : Start Date: 01/05/2021
+================== 
+//Day1 
+CP:03 Conditional operator programming
+Date: 02/05/2021
+ 1. Write a C program to find maximum between two numbers using conditional operator.[s-01]
+ 2. Write a C program to find maximum between three numbers using conditional operator.[02]
+
+
+//Day2 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. []
+ 2. []
+
+

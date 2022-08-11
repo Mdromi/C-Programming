@@ -1,0 +1,368 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Anisul Islam]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar | Dennis Ritchie]
+4.Open pdf book. [file > pdf > C Languase> ]
+5.Open YouTube. [Anisul Islam]
+===================
+Learning Speed : Start Date: 10/04/2021
+================== 
+//Day1 
+CP:02 Input Output
+Date: 10/04/2021
+ 1. First C Program [01]
+ 2. Comments and Escape sequence [02]
+
+
+//Day2 
+CP:02 Input Output
+Date: 11/04/2021
+ 1. Keyword, Variable, DataType(p-1)[v-5.13] [Notes]
+ 2. Keyword, Variable, DataType(p-2)[v-5.14] [s-03]
+ 3. Printf and Scanf[v-5.15] [s-04]
+ 4. Sizeof[v-5.16][s-05]
+
+
+//Day3
+CP:02 Input Output
+Date: 12/04/2021
+ 1. Convert ASCII Value[v-5.17][s-06]
+ 2. Convert Character Into ASCII[v-5.18][s-07]
+ 3. Lower To Uppercase Letter[v-5.19][s-08]
+ 4. Upper To Lowercase Letter[v-5.20][s-09]
+ 5. Lower To Uppercase Letter using library[v-5.21][s-10]
+ 6. Upper To Lowercase Letter Using Library[v-5.22][s-11]
+ 7. Conversion Between Decimal and Octal[v-5.23][s-12]
+ 8. Conversion Between Decimal and Hexa-dacimal[v-5.24][s-13]
+ 9. Conversion Between Octal and Hexa-dacimal[v-5.25][s-14]
+ 10. End of the Input Output Topic [v-5.26]
+
+
+//Day4 
+CP:03 Operator
+Date: 14/04/2021
+ 1. Operator, Operand, Expression [v-5.27][Notes]
+ 2. []
+
+
+//Day5 
+CP:03 Operator
+Date: 15/04/2021
+ 1. Arithmetic or Assignment Operator[v-5.28][s-02]
+ 2. The Sum of Two Numbers A,F,C program[v-5.29][Notes]
+ 3. The Sum of Two Numbers[v-5.30][s-03]
+ 4. Average and sum of three numbers A,F,C program[v-5.31][Notes]
+ 5. Average and sum of three numbers program[v-5.32] [s-04]
+ 6. Area of the Triangle A,F,C Program[v-5.33][Notes]
+ 7. Area of the Triangle Program[v-5.34][s-05]
+ 8. Area of the Triangle Three arms A,F,C Program[v-5.35][Notes]
+ 9. Area of the Triangle Three arms Program[v-5.36][s-05]
+ 10.Area of Rectangle A,F,C Program[v-5.37][Notes]
+ 11.Area of Rectangle[v-5.38][s-07]
+ 12.Area of Circle A,F,C Program[v-5.39][Notes]
+ 13.Area of Circle [v-5.40][s-08]
+ 
+//Day6 
+CP:03 Operator
+Date: 20/04/2021
+ 1. Centigrade to Fahrenheit A,F,C Program[v-5.41][Notes]
+ 2. Centigrade to Fahrenheit[v-5.42][s-09]
+ 3. Fahrenheit to Centigrade A,F,C Program[v-5.43][Notes]
+ 4. Fahrenheit to Centigrade[v-5.44][s-10]
+
+//Day7 
+CP:03 Operator
+Date: 21/04/2021
+ 1. Swap two Numbers with Temporary Variable[v-5.45][s-11]
+ 2. Swap two Numbers without Temporary Variable[v-5.46][s-12]
+ 3. Quadratic Equation(p-1) A,F,C Program[v-5.47][Notes]
+ 4. Quadratic Equation(p-1) A,F,C Program[v-5.48][Notes]
+ 5. Quadratic Equation(p-2)[v-5.49][s-13]
+ 6. End of the Operator Topic[v-5.49]
+	
+//Day8 
+CP:03 Math
+Date: 22/04/2021
+ 1. Absolute value[v-5.51][s-02]
+ 2. Square Root[v-5.52][s-03]
+ 3. Power[v-5.53][s-04]
+ 4. Log, Log10, Sin Function[v-5.54][s-05]
+ 5. Round, Trunc, Ceil, Floor Function[v-5.55][s-06]
+ 6. End of the Math Topic[v-5.56] // tutorialspoint.com
+ 
+//Day8 
+CP:05 Operator[p-2]
+Date: 22/04/2021
+ 1. Assignment Operator[v-5.57][s-01]
+ 2. Unary Operator[v-5.58][s-02]
+ 3. Relational Operator[p-1][v-5.59][s-03]
+ 4. Relational Operator[p-2][v-5.60][s-04]
+ 5. Relational Operator[p-3][v-5.61][s-05]
+ 6. Conditional control statement - if-else syntax & Flowchart[v-5.62][Notes]
+
+//Day9 
+CP:05 Operator[p-2]
+Date: 25/04/2021
+ 1. Even / Odd number Determination A,F,C Program[v-5.63][Notes]
+ 2. Even / Odd number Determination[v-5.64][s-06]
+ 3. Positive / Negative Determination A,F,C Program[v-5.65][Notes]
+ 4. Positive / Negative Determination[v-5.66][s-07]
+ 5. Large / Small number between two numbers A,F,C Program[v-5.67][Notes]
+ 6. Large / Small number between two numbers[v-5.68][s-08] 
+ 
+//Day10 
+CP:05 Operator[p-2]
+Date: 26/04/2021
+ 1. Logical Operator[v-5.69][s-09] 
+ 2. []
+ 
+//Day11 
+CP:05 Operator[p-2]
+Date: 29/04/2021
+ 1. Large / Small number between three numbers A,F,C Program[v-5.70][Notes]
+ 2. Large / Small number between three numbers[v-5.71][s-10]
+ 3. Leap Year A,F,C Program[v-5.72][Notes]
+ 4. Leap Year Program [v-5.73][s-11]
+ 5. Capital / Small letter A,F,C Program[v-5.74][Notes]
+ 6. Capital / Small letter[v-5.75][s-12]
+ 7. Vowel / Consontant A,F,C Program[v-5.76][Notes]
+ 8. Vowel / Consontant Program[v-5.77][s-13]
+ 9. Pass / Fail A,F,C Program[v-5.78][Notes]
+ 10.Pass / Fail Program[v-5.79][s-14]
+ 11.Letter Grade A,F,C Program[v-5.80][Notes]
+ 12.Letter Grade Program[v-5.81][s-15]
+ 13.End of the if-else Topic[v-5.56] 
+ 14.Types of variables(Local & Global)[v-5.83][s-16][Notes]
+ 
+ 
+//Day11 
+CP:06 Switch Statement
+Date: 29/04/2021
+ 1. Switch Statement | Digit Spelling[p-1][v-5.84][s-01]
+ 2. Switch Statement | Interesting Facts[p-2][v-5.85] // geeksforgeeks.org | programiz.com
+ 3. Switch Statement | Vowel / Consonant[p-3][v-5.86][s-02]
+ 4. Switch Statement, Syntax, Flowchart [p-4][v-5.87][Notes]
+ 5. Switch Statement | Menu Based Temperature Conversion[p-5][v-5.88][s-03]
+ 6. Switch Statement | Calculator[p-6][v-5.89][s-04]
+ 7. End of the switch Topic[v-5.90] 
+ 
+//Day12 
+CP:07 Operator[p-3]
+Date: 02/05/2021
+ 1. Coditional Operator / Ternary Operator[v-5.91][s-01]
+ 2. Bitwise Operator[v-5.92][s-02]
+ 
+//Day12 
+CP:08 Loop
+Date: 02/05/2021
+ 1. For, while, do while loop[v-5.93][s-01]
+ 2. For, while, do while loop syntax[p-1][v-5.94][Notes]
+ 3. For, while, do while loop syntax[p-2][v-5.95][Notes]
+ 4. For, while, do while loop Flowchart[v-5.96][Notes]
+ 5. Break and continue statement[v-5.97][s-02]
+ 6. Goto statement[v-5.98][s-03]
+ 7. Multiplication Table[v-5.99][s-04]
+ 
+//Day13 
+CP:08 Loop
+Date: 07/05/2021
+ 1. Fectorial A,F,C Program[v-5.100][Notes]
+ 2. Fectorial Program[v-5.101][s-05]
+ 3. Prime Number A,F,C Program[v-5.102][p-1][Notes]
+ 4. Prime Number A,F,C Program[v-5.103][p-2][Notes]
+ 5. Prime Number Program[v-5.104][s-06]
+ 6. G.C.D & L.C.M[Theory][v-5.105][Notes]
+ 7. G.C.D & L.C.M - A,F,C Program[v-5.106][Notes]
+ 8. G.C.D & L.C.M - Program[v-5.107][s-07]
+ 
+//Day14 
+CP:08 Loop
+Date: 08/05/2021
+ 1. Sum of Digits[Theory][v-5.108][Notes]
+ 2. Sum of Digits Program[v-5.109][s-08]
+ 3. Reverse A number[Theory][v-5.110][Notes]
+ 4. Reverse A Number Program[v-5.111][s-09]
+ 5. Palindrome Number[Theory][v-5.112][Notes]
+ 6. Palindrome Number Program[v-5.113][s-10]
+ 7. Armstrong Number[Theory][v-5.114][Notes]
+ 8. Armstrong Number Program[v-5.115][s-11]
+ 9. Counting number of a digit in an integer[v-5.116][s-12][Notes]
+ 10.Strong number Program[v-5.117][s-13][Notes]
+ 11.End of the Loop Topic[v-5.18]
+ 
+//Day15
+CP:09 Series
+Date: 06/06/2021
+ 1. Series-1[v-5.120][s-01]
+ 2. Series-2[v-5.121][s-02]
+ 3. Series-3[v-5.122][s-03]
+ 4. N number print - A,F,C[v-5.123][Notes]
+ 5. N number print[v-5.124][s-04]
+ 
+//Day16
+CP:09 Series
+Date: 10/06/2021
+ 1. Sum of series - A,F,C[v-5.125][Notes]
+ 2. Sum of series program [v-5.126][s-05]
+ 3. Sum of float series - A,F,C[v-5.127][Notes]
+ 4. Sum of float series program [v-5.128][s-06]
+ 5. Sum of square series - A,F,C[v-5.129][Notes]
+ 6. Sum of square series program [v-5.130][s-07]
+ 7. Sum of divided series program [v-5.131][s-08]
+ 8. Multiplication of series - A,F,C[v-5.132][Notes]
+ 9. Multiplication of series program [v-5.133][s-09]
+ 10.Multiplication of square series - A,F,C[v-5.134][Notes]
+ 11.Multiplication of square series program [v-5.135][s-10]
+ 12.Sum of series program [v-5.136][s-11]
+ 13.Fibonacci series - A,F,C[p-1][v-5.137][Notes]
+ 14.Fibonacci series - A,F,C[p-2][v-5.138][Notes]
+ 14.Fibonacci series program[p-3][v-5.139][s-12]
+ 15.End of the Loop Topic[v-5.141]
+ 
+//Day17
+CP:10 Pattern
+Date: 11/06/2021
+ 1.Pattern-1[v-5.142][s-01]
+ 2.Pattern-2[v-5.143][s-02]
+ 3.Pattern-3[v-5.144][s-03]
+ 4.Pattern-4[v-5.145][s-04]
+ 5.Pattern-5[v-5.146][s-05]
+ 6.Pattern-6[v-5.147][s-06]
+ 7.Pattern-7[v-5.148][s-07]
+ 8.Pattern-8[v-5.149][s-08]
+ 9.Pattern-9[v-5.150][s-09]
+ 10.Pattern-10[v-5.151][s-10]
+ 11.Pattern-11[v-5.152][s-11]
+ 12.Pattern-12[v-5.153][s-12]
+ 13.Pattern-13[v-5.154][s-13]
+ 14.Pattern-14[v-5.155][s-14]
+ 15.Pattern-15[v-5.156][s-15]
+ 16.Pattern-16[v-5.157][s-16]
+ 17.Pattern-17[v-5.158][s-17]
+ 18.Pattern-18[v-5.159][s-18]
+ 19.Pattern-19[v-5.160][s-19] // codeforwin.org
+ 20.Pattern-20[v-5.161][s-20]
+ 21.Pattern-21[v-5.162][s-21] 
+ 22.Pattern-22[v-5.163][s-22] 
+ 23.End of the Pattern Topic[v-5.164] // techcrashcourse.com
+ 
+ 
+//Day18
+CP:11 Array
+Date: 13/06/2021
+ 1.Introduction To Array[v-5.165][s-01]
+ 2.Array-1[v-5.166][s-02]
+ 3.Array-2[v-5.167][s-03]
+ 4.Array-3[v-5.168][s-04]
+ 5.Fibonacci Series using array[v-5.169][s-05]
+ 6.Linear search[v-5.170][s-06]
+ 7.Copy elements of array[v-5.171][s-07]
+
+//Day19 
+CP:11 Array
+Date: 16/06/2021
+ 1.Introduction To 2D Array[v-5.172][s-08]
+ 2.Getting input for 2D Array[v-5.173][s-09]
+ 3.Array simple matrix[v-5.174][s-10]
+ 4.Matrix addition or subtraction[v-5.175][s-11]
+ 5.Matrix multiplication-1[v-5.176][s-12]
+ 6.Matrix multiplication-2[v-5.177][s-13]
+ 7.Transpose matrix[v-5.178][s-14]
+ 8.Sum of diagonal elements of a matrix[v-5.179][s-15]
+ 9.Sum of upper and lower triangles matrix[v-5.180][s-16] 
+ 10.End of the Array Topic[v-5.181]
+ 
+ 
+//Day20 
+CP:12 String
+Date: 19/06/2021
+ 1.Introduction To String[v-5.182][s-01]
+ 2.Input and display String[v-5.183][s-02]
+ 3.Display String character-wise[v-5.184][s-03]
+ 4.Finding length of string using function[v-5.185][s-04]
+ 5.Finding length of string without function[v-5.186][s-05]
+ 6.Copy string using strcpy()[v-5.187][s-06]
+ 7.Concatenation using strcat()[v-5.188][s-07]
+ 8.Concatenation without strcat()[v-5.189][s-08]
+ 9.Comparing string using strcmp()[v-5.190][s-09] 
+ 10.Reverse a string using strrev()[v-5.191][s-10]
+ 11.Reverse a string Without strrev()[v-5.192][s-11]
+ 12.String palindrome check[v-5.193][s-12] 
+ 13.String swapping[v-5.194][s-13]
+ 14.Strupr() and Strlwr()[v-5.195][s-14]
+ 15.Check the string[v-5.196][s-15]
+ 16.String number of capital-small letter,digits[v-5.197][s-16]
+ 17.End of the String Topic[v-5.198]
+
+//Day21 
+CP:13 Function
+Date: 21/06/2021
+ 1.Function sum of numbers[v-5.199][s-01]
+ 2.Function square of number[v-5.200][s-02]
+ 3.Function area of triangle[v-5.201][s-03]
+ 4.Function X to the power Y-1[v-5.202][s-04]
+ 5.Function X to the power Y-2[v-5.203][s-05]
+ 6.Passing array to a function[v-5.204][s-06]
+ 7.Finding array maximum value from function[v-5.205][s-07]
+ 8.Passing array to function[v-5.206][s-08]
+ 9.Function Recursion Theory[v-5.207]
+ 10.Factorial using Recursion[v-5.208][s-09]
+ 11.End of the Function Topic[v-5.209] //w3resource.com
+
+//Day22
+CP:14 Structure
+Date: 30/07/2021
+ 1.Introduction to Structure [v-5.210][s-01]
+ 2.Local vs Global Structure [v-5.211][s-02]
+ 3.Input structure element [v-5.212][s-03]
+ 4.Initialize structure variables [v-5.213][s-04]
+ 5.Structure comparision [v-5.214][s-05]
+ 6.Array of structure [v-5.215][s-06]
+ 7.Array within structure [v-5.216][s-07]
+ 8.Passing structure variable to function[v-5.217][s-08]
+ 9.Introduction To union [v-5.218][s-09]
+ 10.Size of union and structure [v-5.219][s-10]
+ 11.Introduction to enumeration [v-5.220][s-11]
+ 12.Introduction to typedef [v-5.221][s-12]
+ 13.End of the custom data topic[v-5.222]
+
+//Day23
+CP:15 Pointer
+Date: 31/07/2021
+ 1.Introduction to pointer [v-5.223][s-01]
+ 2.Pointer pointing to different variable[v-5.224][s-02]
+ 3.Adding two numbers using pointer[v-5.225][s-03]
+ 4.Swapping two numbers using pointer[v-5.226][s-04]
+ 5.Swapping two numbers using pointer and function[v-5.227][s-05]
+ 6.Access array elements using pointer[v-5.228][s-06]
+ 7.End of the Pointer topic[v-5.229]
+
+//Day24 
+CP:16 File
+Date: 01/08/2021
+ 1.Introduction to file [v-5.230][s-01]
+ 2.Writing to a file fputc()[v-5.231][s-02]
+ 3.Writing to a file fputs()[v-5.232][s-03]
+ 4.Writing to a file fprintf()[v-5.233][s-04]
+ 5.Reading to a file fgetc()[v-5.234][s-05]
+ 6.Reading to a file fgets()[v-5.235][s-06]
+ 7.Reading to a file fscanf()[v-5.236][s-07]
+ 8.Storing Student details[v-5.237][s-08]
+ 9.End of the File topic[v-5.238] // tutorialspoint.com
+
+//Day24 
+CP:17 Preprocessor
+Date: 01/08/2021
+ 1.Preprocessor define [v-5.239][s-01]
+ 2.Preprocessor creating header file [v-5.240][s-01]
+ 3.Algorithm Flowchart Suggestion. 
+ 4.Series related program.
+ 5.Coverting one loop to another loop.
+ 6.Series Finale [v-5.241]
+ 7.Coding standard in Software Development.
+
+
+ 
+ 

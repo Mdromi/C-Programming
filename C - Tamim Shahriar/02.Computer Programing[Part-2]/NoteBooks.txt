@@ -1,0 +1,196 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Tamim Shahriar > Computer Programing[Part-2] > ]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar]
+===================
+Learning Speed : Start Date: 01/09/2021
+================== 
+//Day1 
+CP:01 Computer Memory
+Date: 01/09/2021
+ 1. Program1.1[s-01]
+ 2. Program1.2[s-02]
+ 3. Program1.2.2[s-03]
+ 4. Program1.3[s-04]
+ 5. Program1.4[s-05]
+ 6. Program1.5[s-06]
+
+//Day2 
+CP:02 Pointer
+Date: 02/09/2021
+ 1. Program2.1[s-01]
+ 2. Program2.2[s-02]
+ 3. Program2.3[s-03]
+ 4. Program2.4[s-04]
+ 5. Program2.5[s-05]
+ 6. Program2.6[s-06]
+ 7. Program2.7[s-07]
+ 8. Program2.8[s-08]
+ 9. Program2.9[s-09]
+ 10.Program2.10[s-10]
+ 11.Program2.11[s-11]
+ 12.Program2.12[s-12]
+ 13.Program2.13[s-13]
+ 14.Program2.14[s-14]
+ 15.Program2.15[s-15]
+ 16.Program2.16[s-16]
+ 17.Program2.17[s-17]
+ 
+ 
+//Day3 
+CP:03 File
+Date: 05/09/2021
+ 1. Program3.1[s-01]
+ 2. Program3.2[s-02]
+ 3. Program3.3[s-03]
+ 4. Program3.4[s-04]
+ 5. Program3.5[s-05]
+ 6. Program3.6[s-06]
+ 7. Program3.7[s-07]
+ 8. Program3.7.2[s-08]
+ 9. Program3.8[s-09]
+ 10.Program3.9[s-10]
+ 
+ 
+//Day4
+CP:04 Recursion
+Date: 07/09/2021
+ 1. Program4.1[s-01]
+ 2. Program4.2[s-02]
+ 3. Program4.3[s-03]
+ 4. Program4.4[s-04]
+
+//Day5
+CP:04 Recursion
+Date: 09/09/2021
+ 1. Program4.5[s-05]
+ 2. Program4.6[s-06]
+ 3. Program4.3[s-03]
+ 4. Program4.4[s-04]
+ 5. Program4.5[s-05]
+ 6. Program4.6[s-06]
+
+//Day6
+CP:04 Recursion
+Date: 15/09/2021
+ 1. Program4.7[s-07]
+ 2. Program4.8[s-08]
+ 3. Program4.9[s-09]
+ 4. Program4.10[s-10]
+ 5. Program4.11[s-11]
+ 6. Program4.12[s-12] 
+ 7. Program4.13[s-13] 
+ 8. Program4.14[s-14] 
+
+
+//Day7 
+CP:05 Bitwise Operation
+Date: 20/09/2021
+ 1. Program5.1[s-01]
+ 2. Program5.2[s-02]
+ 3. Program5.3[s-03]
+ 4. Program5.4[s-04]
+ 5. Program5.5[s-05]
+ 6. Program5.6[s-06]
+ 7. Program5.7[s-07]
+ 8. Program5.8[s-08]
+ 9. Program5.9[s-09]
+ 10.Program5.10[s-10]
+ 11.Program5.11[s-11]
+ 12.Program5.12[s-12]
+ 
+//Day8
+CP:06 Structure and Union
+Date: 25/09/2021
+ 1. Program6.1[s-01]
+ 2. Program6.2[s-02] 
+ 3. Program6.3[s-03] 
+ 4. Program6.4[s-04]
+ 5. Program6.5[s-05]
+ 6. Program6.6[s-06]  
+ 7. Program6.7[s-07] 
+ 8. Program6.8[s-08]
+ 9. Program6.9[s-09]
+ 10.Program6.10[s-10]
+ 11.Program6.11[s-11]
+ 12.Program6.12[s-12]  
+
+//Day9
+CP:07 More Pointer
+Date: 02/10/2021
+ 1. Program7.1[s-01]
+ 2. Program7.2[s-02]
+ 3. Program7.3[s-03]
+ 4. Program7.4[s-04]
+ 5. Program7.5[s-05]
+ 6. Program7.6[s-06]
+ 7. Program7.7[s-07]
+ 8. Program7.8[s-08]
+ 9. Program7.9[s-09]
+ 10.Program7.10[s-10]
+ 11.Program7.11[s-11]
+ 12.Program7.12[s-12]
+ 
+//Day10 
+CP:08 Some Fun Programs
+Date: 19/10/2021
+ 1. Program8.1[s-01]
+ 2. Program8.2[s-02] 
+ 3. Program8.3[s-03]
+ 4. Program8.4[s-04]
+ 5. Program8.5[s-05]
+
+//Day11 
+CP:09 Diverse
+Date: 21/10/2021
+ 1. Program9.1[s-01]
+ 2. Program9.2[s-02]
+ 3. Program9.3[s-03]
+ 4. Program9.4[s-04]
+ 5. Program9.5[s-05]
+ 6. Program9.6[s-06]
+ 7. Program9.7[s-07]
+ 8. Program9.8[s-08]
+ 9. Program9.9[s-09]
+ 10.
+ 11.
+ 12.
+ 13.Program9.13[s-13]
+ 14.Program9.14[s-14]
+ 15.Program9.15[s-15]
+ 16.Program9.16[s-16]
+ 17.Program9.17[s-17]
+ 18.Program9.18[s-18]
+ 
+//Day11 
+CP:10 Program Debuging
+Date: 23/10/2021
+ 1. Program10.1[s-01]
+ 2. Program10.2[s-02] 
+ 3. Program10.3[s-03]
+ 4. Program10.4[s-04]
+ 5. Program10.5[s-05]
+
+
+
+
+
+//Day0 
+CP:00 Starter
+Date: 02/09/2021
+ 1. Program1.1[s-01]
+ 2. Program1.2[s-02] 
+ 3. Program1.3[s-03]
+ 
+============================ 
+#include<stdio.h>
+int main()
+{
+
+
+    return 0;
+}
+============================ 
+ 

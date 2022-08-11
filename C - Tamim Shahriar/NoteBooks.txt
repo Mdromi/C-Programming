@@ -1,0 +1,13 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > C Languase > C - Tamim Shahriar > Computer Programing[Part-2] > ]
+2.Open CodeBlocks  IDE. [ ]
+3.Open Book.[Tamim Shahriar]
+===================
+Learning Speed : Start Date: 01/09/2021
+================== 
+//Day1 
+CP:01 Computer Memory
+Date: 13/04/2021
+ 1. Program2.1[s-01]
